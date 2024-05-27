@@ -2,6 +2,7 @@
 -- Link to schema: https://app.quickdatabasediagrams.com/#/d/3xbA9W
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
+
 CREATE TABLE "category" (
     "category_id" VARCHAR   NOT NULL,
     "category" VARCHAR   NOT NULL,
@@ -56,4 +57,3 @@ REFERENCES "category" ("category_id");
 
 ALTER TABLE "campaign" ADD CONSTRAINT "fk_campaign_subcategory_id" FOREIGN KEY("subcategory_id")
 REFERENCES "subcategory" ("subcategory_id");
-
