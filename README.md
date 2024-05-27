@@ -39,7 +39,7 @@ For the ETL mini project, we practiced building an ETL pipeline using Python, Pa
 - Define tables and their columns, specifying data types, primary keys, foreign keys, and other constraints.
 - Save the schema as 'crowdfunding_db_schema.sql'.
 
-![](Crowdfunding_ETL/Output/crowdfundingERD.png)
+![](Output/crowdfundingERD.png)
 
 ### Create the Crowdfunding Database
 - Created a new database crowdfunding_db on PostgreSQL.
@@ -47,10 +47,10 @@ For the ETL mini project, we practiced building an ETL pipeline using Python, Pa
 - Imported the csv files in the proper order.
 - Verified the tables and content performing the queries on our 'queries_db.sql' file.
 
-![](Crowdfunding_ETL/Output/category_query.png)
-![](Crowdfunding_ETL/Output/subcategory_query.png)
-![](Crowdfunding_ETL/Output/contacts_query.png)
-![](Crowdfunding_ETL/Output/campaign_query.png)
+![](Output/category_query.png)
+![](Output/subcategory_query.png)
+![](Output/contacts_query.png)
+![](Output/campaign_query.png)
 
 ## Pre-requisites:
 - Libraries: Pandas, Numpy, datetime, json, re
