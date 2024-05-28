@@ -5,11 +5,11 @@ For the ETL mini project, we practiced building an ETL pipeline using Python, Pa
 **We developed the code and the different outputs as a team without splitting the work.**
 
 ### Steps Performed
--The project is divided in 4 subsections:
-- Create the Category and Subcategory DataFrames
-- Create the Campaign DataFrame
-- Create the Contacts DataFrame
-- Create the Crowdfunding Database
+- The project is divided in 4 subsections:
+    - Create the Category and Subcategory DataFrames
+    - Create the Campaign DataFrame
+    - Create the Contacts DataFrame
+    - Create the Crowdfunding Database
 
 ### Create the Category and Subcategory DataFrames
 - Imported 'crowdfunding.xlsx' into the project from the resources folder.
@@ -61,7 +61,7 @@ For the ETL mini project, we practiced building an ETL pipeline using Python, Pa
 - pgAdmin4 Version 8.2
 - PostgreSQL 16
 
-## Instructions to run project
+## Instructions to run the project
 - Clone the repository to your local.
 - Activate your Conda environment.
 - Run ETL_Mini_Project_AWu_HSaleh_DMolina.ipynb file.
