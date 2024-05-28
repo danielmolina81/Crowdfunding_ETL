@@ -5,7 +5,7 @@ For the ETL mini project, we practiced building an ETL pipeline using Python, Pa
 **We developed the code and the different outputs as a team without splitting the work.**
 
 ### Steps Performed
--The project is divides in 4 subsections:
+-The project is divided in 4 subsections:
 - Create the Category and Subcategory DataFrames
 - Create the Campaign DataFrame
 - Create the Contacts DataFrame
