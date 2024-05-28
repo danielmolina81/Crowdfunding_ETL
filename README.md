@@ -2,6 +2,7 @@
 
 ## Project Overview
 For the ETL mini project, we practiced building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After we transformed the data, we created four CSV files and used the CSV file data to create an ERD and a table schema. Finally, we uploaded the CSV file data into a Postgres database.
+**We developed the code and the different outputs as a team without splitting the work.**
 
 ### Steps Performed
 -The project is divides in 4 subsections:
@@ -48,8 +49,11 @@ For the ETL mini project, we practiced building an ETL pipeline using Python, Pa
 - Verified the tables and content performing the queries on our 'queries_db.sql' file.
 
 ![](Output/category_query.png)
+
 ![](Output/subcategory_query.png)
+
 ![](Output/contacts_query.png)
+
 ![](Output/campaign_query.png)
 
 ## Pre-requisites:
@@ -67,6 +71,7 @@ For the ETL mini project, we practiced building an ETL pipeline using Python, Pa
 - EXTRACT the excel files which are: 'crowfunding.xlsx' and 'contacts.xlsx.
 - TRANFORM data using python code.
 - LOAD to a PostgreSQL data base.
+![](Output/pipeline.png)
 
 ## Contributors
 - Andrea Wu
